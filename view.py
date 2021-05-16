@@ -35,4 +35,3 @@ class View:
         print("        锁卡(7)           查询(8)            ")
         print("        补卡(9)           退出(10)            ")
         print("--------------------------------------------")
-        print("sdfsdfdsfsdfdas")
